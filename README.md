@@ -85,16 +85,16 @@ Run everything (backend + database) with Docker Compose:
 docker-compose up --build
 
 ## Screenshots:
-====
-(Include screenshots of the application, multi-provider switching, database tables, and error handling examples.)
+---------------------------------------------------------------------------------------------------------------
+Include screenshots of the application, multi-provider switching, database tables, and error handling examples.
 ![alt text](Screenshot(1).-1.jpg)
 ![alt text](Screenshot(2)..-1.jpg)
 
 ## Team Members
 --------------------------------------------------------------------------------------------------------------------
 G Naga Lasya(2451-22-748-062) - Frontend Development & UI/UX
--Mohammad Rahimathulla(2451-22-748-303) - Backend Development & Database Design-
+Mohammad Rahimathulla(2451-22-748-303) - Backend Development & Database Design
 
-## ---------------------------------------------------------------------------------------------------------------------
+## ---------------------------------------------------------------------------------------------------
 
 ## Thank You
