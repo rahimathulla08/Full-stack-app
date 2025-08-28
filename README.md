@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #💬 AI Chat App
 
 ##Project Overview
@@ -83,3 +84,6 @@ docker-compose up --build
 (Include screenshots of the application, multi-provider switching, database tables, and error handling examples.)
 ![alt text](Screenshot(1).-1.jpg)
 ![alt text](Screenshot(2)..-1.jpg)
+=======
+# Full-stack-app
+>>>>>>> df56036625be741b28dcbdc0c052714f7a130ce6
