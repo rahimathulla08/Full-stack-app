@@ -92,9 +92,9 @@ Include screenshots of the application, multi-provider switching, database table
 
 ## Team Members
 --------------------------------------------------------------------------------------------------------------------
-G Naga Lasya(2451-22-748-062) - Frontend Development & UI/UX
-Mohammad Rahimathulla(2451-22-748-303) - Backend Development & Database Design
+G Naga Lasya(2451-22-748-062) - Frontend Development & UI/UX.
 
-## ---------------------------------------------------------------------------------------------------
+Mohammad Rahimathulla(2451-22-748-303) - Backend Development & Database Design.
+
 
 ## Thank You
